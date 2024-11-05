@@ -1,3 +1,12 @@
+Exp2: RELATION OF CLUSTER SIZE TO SI
+Exp3: Free Space and Two ray
+Exp4: Small Scale fading channel prediction
+Exp5: Study of multiple access technique
+Exp6: PN code Generation
+Exp7: Generation of Walsh Codes
+Exp9: Alamouti Coding for mimo systems
+
+
 EXP2
 SECTORING
 clc;
